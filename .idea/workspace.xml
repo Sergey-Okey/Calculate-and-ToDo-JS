@@ -37,6 +37,9 @@
   &quot;lastFilter&quot;: {
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="45ba7354-953b-438c-bae5-9292d7c1c806" />
   </component>
@@ -68,17 +71,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "ignore_missing_gitignore": "true",
     "last_opened_file_path": "C:/Users/serge/Desktop/localhost",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
+    ],
+    "GitStage.ChangesTree.GroupingKeys": [
+      "repository"
     ]
   }
 }]]></component>
@@ -104,7 +111,8 @@
       <workItem from="1710840718459" duration="201000" />
       <workItem from="1710840939999" duration="475000" />
       <workItem from="1710841429690" duration="144000" />
-      <workItem from="1710841585272" duration="1788000" />
+      <workItem from="1710841585272" duration="2078000" />
+      <workItem from="1710843686331" duration="1135000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -162,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710843162869</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710843409895</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843409895</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710844828354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710844828354</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
