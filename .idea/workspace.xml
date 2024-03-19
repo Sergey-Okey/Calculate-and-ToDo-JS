@@ -36,8 +36,8 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="ef6c8a2c-daeb-4e01-b792-7dadcc4fee5b" />
-        <option name="url" value="https://github.com/Sergey-Okey/Calculate-JS.git" />
+        <option name="accountId" value="45ba7354-953b-438c-bae5-9292d7c1c806" />
+        <option name="url" value="https://github.com/Sergey-Okey/Calculate-and-ToDo-JS.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -103,7 +103,7 @@
       <workItem from="1710841429690" duration="144000" />
       <workItem from="1710841585272" duration="2078000" />
       <workItem from="1710843686331" duration="1135000" />
-      <workItem from="1710844905153" duration="465000" />
+      <workItem from="1710844905153" duration="825000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710845368148</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710845708443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710845708443</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
