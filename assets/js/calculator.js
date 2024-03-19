@@ -22,4 +22,4 @@ function colorResult () {
         resultElement.style.color = ('red')
     }
 }
-                    /* Calculate end */
+/* Calculate end */
