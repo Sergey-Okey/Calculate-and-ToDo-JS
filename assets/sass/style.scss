@@ -1,0 +1,189 @@
+body{
+  color:#fff;
+  background: #3a3a3a;
+  font-size: 16px;
+  font-family: "Kode Mono", monospace;
+  user-select: none;
+}
+*{
+  box-sizing: border-box;
+}
+h2{
+  margin: 0;
+}
+
+ul{
+  padding: 0;
+  width: 100%;
+}
+
+li{
+  list-style: none;
+  width: 100%;
+}
+
+.container-content {
+  width: 40%;
+  margin: 0 auto;
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  input {
+    display: flex;
+    padding: 10px 20px;
+    color: gray;
+    background: floralwhite;
+    border: 0;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  .d-flex {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+
+    .btn-danger {
+      background: red;
+
+      &:hover {
+        background: #da8686;
+        transition: .3s;
+      }
+    }
+
+    .btn-success {
+      background: green;
+
+      &:hover {
+        background: #55c755;
+        transition: .3s;
+      }
+    }
+  }
+
+  button {
+    border: 0;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px 20px;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+
+  .btn-outline {
+    background: inherit;
+    border: solid 2px floralwhite;
+    font-size: 1.2rem;
+    color: floralwhite;
+    margin-top: 10px;
+
+    &:hover {
+      background: #72e772;
+      transition: .3s;
+    }
+  }
+
+  .text-center {
+    display: flex;
+    background: floralwhite;
+    margin: 10px 0;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: center;
+
+    h4 {
+      font-size: 2rem;
+      color: #494949;
+      font-weight: 500;
+      margin: 0;
+    }
+
+    p {
+      margin: 0;
+      font-size: 2rem;
+      color: black;
+    }
+  }
+
+  .tasks {
+    align-items: center;
+    button {
+      height: 50px;
+      padding: 0 10px;
+      background: initial;
+      border: solid 2px #da8686;
+
+      &:hover {
+        background: #3fad3a;
+        border: solid 2px #55c755;
+      }
+    }
+  }
+
+  .created-tasks {
+    display: flex;
+    align-items: center;
+   margin: 0 auto;
+
+    .item-task{
+      margin-bottom: 10px;
+    }
+    ul{
+      width: 100%;
+      li{
+        width: 100%;
+        align-items: center;
+        display: flex;
+      }
+    }
+    button {
+      width: 20%;
+      height: 50px;
+      padding: 0 10px;
+      margin-left: 5px;
+    }
+
+    .remove-task{
+      background: red;
+    }
+
+    .btn-warning{
+      background: coral;
+    }
+
+    .btn-success{
+      background: #55c755;
+    }
+
+    span{
+      width: 100%;
+      background: floralwhite;
+      color: #6c6c6c;
+      border-radius: 5px;
+      padding: 10px 20px;
+      font-size: 1.3rem;
+    }
+  }
+  .true{
+    text-decoration: line-through 3px black;
+  }
+}
+@media screen and (max-width: 800px){
+  .container-content {
+    width: 95%;
+    margin: 0 auto;
+  }
+  }
+
+@media screen and (max-width: 900px){
+  .container-content {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
