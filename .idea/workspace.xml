@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea41a680-0fd5-49a1-8f8e-720cd1e0eb7a" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/calculator.js" afterDir="false" />
-    </list>
+    <list default="true" id="ea41a680-0fd5-49a1-8f8e-720cd1e0eb7a" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
+  <component name="ChangesViewManager" show_ignored="true">
     <option name="groupingKeys">
       <option value="directory" />
     </option>
@@ -61,6 +58,10 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,7 +86,7 @@
       <workItem from="1710840718459" duration="201000" />
       <workItem from="1710840939999" duration="475000" />
       <workItem from="1710841429690" duration="144000" />
-      <workItem from="1710841585272" duration="398000" />
+      <workItem from="1710841585272" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -95,7 +96,47 @@
       <option name="project" value="LOCAL" />
       <updated>1710839656374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710842056529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710842056529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710842199796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710842199796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710842892252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710842892252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710842927721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710842927721</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update">
+      <option name="closed" value="true" />
+      <created>1710843015614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843015614</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +153,18 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="LONG_EDGES_VISIBLE" value="true" />
             </State>
           </value>
         </entry>
@@ -119,6 +172,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
